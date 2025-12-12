@@ -1,8 +1,8 @@
-SQL Music Store Data Analysis Project
-Project Overview:
+**SQL Music Store Data Analysis Project
+**Project Overview:
 Developed a comprehensive data analysis project using SQL to extract meaningful insights from an online music store's database, facilitating data-driven decision-making and identifying key business growth areas. The project involved examining a complex dataset across 11 interrelated tables (e.g., Employee, Customer, Invoice, Track, Genre, Album, Artist) to answer critical business questions and understand customer behavior.
-Technical Skills Applied:
-Database Management: Designed and managed a relational database schema.
+**Technical Skills Applied:
+**Database Management: Designed and managed a relational database schema.
 SQL Querying: Utilized a range of SQL functions and commands including SELECT, FROM, WHERE, JOIN (INNER, OUTER, LEFT), GROUP BY, ORDER BY, aggregate functions (COUNT, SUM, AVG, MIN, MAX), subqueries, and window functions.
 Data Analysis: Performed exploratory data analysis (EDA) to uncover trends and patterns in sales, customer preferences, and inventory.
 Tools: Proficient in using PostgreSQL and PgAdmin for database management and querying.
